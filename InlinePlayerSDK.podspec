@@ -12,7 +12,7 @@ s.homepage          =   "https://www.myguide.org/"
 
 s.license           =   { :type => 'MIT', :file => 'LICENSE' }
 
-s.author            =   "MyGuide"
+s.author            =   "Edcast"
 
 s.platform          =   :ios, "11.0"
 
